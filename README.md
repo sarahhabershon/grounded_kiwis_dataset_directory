@@ -1,5 +1,5 @@
 # grounded_kiwis_dataset_directory
-This is a repository for anyone and everyone who is trying to use data to better understand the situation on the New Zealand border to source and share sources, data, and code.
+This is a repository for anyone and everyone who is trying to use data to better understand the situation on the New Zealand border to source and share sources, data, and code - please feel free to make a pull request, or suggest any sources I should add. 
 
 **Sources in this repo:**
 **nzmiq_spot_availability_data_Raghu_Pushpakath.xlsx**
